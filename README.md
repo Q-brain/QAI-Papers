@@ -32,8 +32,6 @@ Each paper entry includes the following metadata:
 - **Access Link**
 - **Category**
 
-In addition, full-text PDFs or official downloadable versions of the papers (when publicly available) are also provided.
-
 > 🕓 **Note:** All papers included in this repository are published between **2022 and 2024**, reflecting the latest developments and trends in Quantum AI research.
 
 ---
